@@ -3,6 +3,18 @@
 </h1>
 
 <!--This image was taken from  ShahriarShafin github profile, an amazing profile-->
+
+
+
+
+
+🐱‍🏍A passionate web developer from Brazil.
+
+🔭 I’m currently working on software & web applications.
+
+👯 I’m looking to collaborate on software & web related projects.
+
+
 ##
 
 <div align="center">
@@ -45,7 +57,9 @@
   
   
  ##
-  
+    
+<h3 align="left">Connect with me:</h3>
+ 
 <div> 
   <a href = "mailto:alissoninacio96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/%C3%A1lisson-in%C3%A1cio-254570129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
