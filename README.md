@@ -6,8 +6,6 @@
 
 
 
-
-
 🐱‍🏍A passionate web developer from Brazil.
 
 🔭 I’m currently working on software & web applications.
