@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on software & web applications.
 
-👯 I’m looking to collaborate on software & web related projects.
+👯 I’m looking to collaborate on software & web development related projects.
 
 
 ##
