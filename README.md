@@ -1,5 +1,5 @@
 <h1 align="center" >
-    Hello Coders! I'm alissoninacio1, a developer <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>
+    Hello Coders! I'm alissoninacio1, a developer 
 </h1>
 
 <!--This image was taken from  ShahriarShafin github profile, an amazing profile-->
