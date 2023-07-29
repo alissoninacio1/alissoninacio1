@@ -1,16 +1,24 @@
 <h1 align="center" >
     Hello ! I'm alissoninacio1  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="30px" height="30px" />
 </h1>
+<br>
+<h3 >
+    🖥 Web & Android Development🐱‍💻📱📱📱
+</h3>
 
-<!--This image was taken from  ShahriarShafin github profile, an amazing profile-->
+<br>
 
+<h3 >
+    About me:
+</h3>
 
+🐱‍🏍A passionate developer from Brazil.
 
-🐱‍🏍A passionate developer.
+🔭 Currently finishing my degree in Applied Techonology (BYU-Idaho), focused on web development and software engineering.
 
-🔭 I’m currently finishing my degree in Applied Techonology in BYU-Idaho.
+🐱‍🚀 Very interested on mobile development.
 
-👯 I’m looking to collaborate on software & web development related projects.
+👯 I’m looking to collaborate on software related projects.
 
 🛸 Feel free to browse my repositories. 
 
@@ -28,7 +36,6 @@
   
 ##
 ### Technologies
- <br>
  <div style="display: inline_block"><br>
      
  <!-- <img align="center" alt="Alisson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
