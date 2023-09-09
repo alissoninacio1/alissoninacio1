@@ -4,7 +4,7 @@
 </h1>
 <br>
 <h3 >
-    🖥 Mobile & Android Development🐱‍💻📱📱📱
+    🖥Developer🐱‍💻📱📱📱
 </h3>
 
 <br>
