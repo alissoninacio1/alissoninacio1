@@ -17,7 +17,7 @@
 
 🔭 Currently finishing my degree in Applied Techonology (BYU-Idaho),  including web development and software engineering.
 
-🐱‍🚀 Working on mobile development: Android - Kotlin & Cross-Platform using React Native for minor projects. 
+🐱‍🚀 Working on mobile development: Android - Kotlin & Cross-Platform using React Native. 
 
 👽 I’m looking to collaborate on software related projects.
 
