@@ -33,9 +33,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissoninacio1&layout=compact&langs_count=7&theme=dark"/>  
      -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissoninacio1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissoninacio1&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
 
+
+[![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissoninacio1&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissoninacio1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
