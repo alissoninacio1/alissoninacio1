@@ -4,7 +4,7 @@
 </h1>
 
 <h3 >
-    🖥 Mobile Developer🐱‍💻📱📱📱
+    🖥 Data Science, IA and Machine Learning
 </h3>
 
 ##
@@ -13,11 +13,11 @@
     About me:
 </h3>
 
-🐱‍🏍A mobile developer from Brazil 🟡🟢🔵⚪, current living in Mexico 🟢⚪🔴.
+🐱‍🏍A  developer from Brazil 🟡🟢🔵⚪, current living in Mexico 🟢⚪🔴.
 
-🔭 Currently finishing my degree in Applied Techonology (BYU-Idaho),  including web development and software engineering.
+🔭 Currently finishing my degree in Applied Techonology (BYU-Idaho),  software development and engineering.
 
-🐱‍🚀 Working on mobile development
+🐱‍🚀 Growing
 
 👽 I’m looking to collaborate on software related projects.
 
