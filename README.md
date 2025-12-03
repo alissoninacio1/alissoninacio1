@@ -15,7 +15,7 @@
 
 🐱‍🏍A  developer from Brazil 🟡🟢🔵⚪, current living in Mexico 🟢⚪🔴.
 
-🔭 Currently finishing my degree in Applied Techonology (BYU-Idaho),  software development and engineering.
+🔭 System and Mobile Engineering  - Bachelors Degree in Applied Technology by BYU - Idaho
 
 🐱‍🚀 Growing
 
