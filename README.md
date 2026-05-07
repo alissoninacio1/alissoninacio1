@@ -4,7 +4,7 @@
 </h1>
 
 <h3 >
-    🖥 Mobile Development
+    System Engineer - Cloud- Security, Data, Network
 </h3>
 
 ##
@@ -15,7 +15,7 @@
 
 🐱‍🏍A  developer from Brazil 🟡🟢🔵⚪, current living in Mexico 🟢⚪🔴.
 
-🔭 System and Mobile Engineering  - Bachelors Degree in Applied Technology by BYU - Idaho
+🔭 System Engineering  - Bachelors Degree in Applied Technology by BYU - Idaho
 
 🐱‍🚀 Growing
 
