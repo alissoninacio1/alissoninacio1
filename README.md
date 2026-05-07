@@ -42,9 +42,10 @@
 ##
 
 <div style="display: inline_block">
-
+   
+ <!-- 
 ### Technologies and interests
- 
+
  
  <img align="center" alt="Alisson-Mongo" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
  <img align="center" alt="Alisson-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />         
@@ -61,13 +62,13 @@
           
           
           
-<!-- 
+
 <img align="center" lt="Java for Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
--->
+
 <img align="center" alt="Alisson-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 
 
-
+-->
 
  ##
     
